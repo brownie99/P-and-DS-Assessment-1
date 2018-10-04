@@ -1,0 +1,6 @@
+C:\Users\Scott\source\repos\CMP1127M Programming and Data\CMP1127M Programming and Data\bin\Debug\CMP1127M Programming and Data.exe.config
+C:\Users\Scott\source\repos\CMP1127M Programming and Data\CMP1127M Programming and Data\bin\Debug\CMP1127M Programming and Data.exe
+C:\Users\Scott\source\repos\CMP1127M Programming and Data\CMP1127M Programming and Data\bin\Debug\CMP1127M Programming and Data.pdb
+C:\Users\Scott\source\repos\CMP1127M Programming and Data\CMP1127M Programming and Data\obj\Debug\CMP1127M Programming and Data.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\CMP1127M Programming and Data\CMP1127M Programming and Data\obj\Debug\CMP1127M Programming and Data.exe
+C:\Users\Scott\source\repos\CMP1127M Programming and Data\CMP1127M Programming and Data\obj\Debug\CMP1127M Programming and Data.pdb
